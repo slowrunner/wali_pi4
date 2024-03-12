@@ -49,3 +49,12 @@ qtcreator-*
 
 # Catkin custom files
 CATKIN_IGNORE
+
+# my ignores
+
+c3ws/log/
+c3ws/build/
+c3ws/install/
+c3ws/src/create3_examples/
+logs/
+c3ws/roslogs/
