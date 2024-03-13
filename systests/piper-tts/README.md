@@ -8,9 +8,9 @@ REF: https://www.youtube.com/watch?v=rjq5eZoWWSo
 
 1) Install for Python  
 ```
-pip3 install piper-tts  
+pip3 install piper-tts  (Ubuntu22.04)
 
-sudo pip3 install piper-tts --break-system-packages  
+sudo pip3 install piper-tts --break-system-packages  (PiOS Pi5)  
 ```
 
 Try it (will download the voices to the cwd:  

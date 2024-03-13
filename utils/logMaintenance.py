@@ -13,7 +13,7 @@ Documentation:
 
 import sys
 
-sys.path.append('/home/pi/wali_pi5/plib')
+sys.path.append('/home/ubuntu/wali_pi4/plib')
 import lifeLog
 
 from time import sleep
